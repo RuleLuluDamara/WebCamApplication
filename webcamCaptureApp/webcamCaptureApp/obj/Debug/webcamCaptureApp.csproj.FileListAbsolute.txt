@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\bin\Debug\webcamCaptureApp.exe.config
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\bin\Debug\webcamCaptureApp.exe
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\bin\Debug\webcamCaptureApp.pdb
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\bin\Debug\AForge.dll
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\bin\Debug\AForge.Video.dll
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\bin\Debug\AForge.xml
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\bin\Debug\AForge.Video.xml
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\obj\Debug\webcamCaptureApp.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\obj\Debug\webcamCaptureApp.Form1.resources
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\obj\Debug\webcamCaptureApp.Properties.Resources.resources
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\obj\Debug\webcamCaptureApp.csproj.GenerateResource.cache
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\obj\Debug\webcamCaptureApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\obj\Debug\webcamCaptureApp.csproj.CopyComplete
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\obj\Debug\webcamCaptureApp.exe
+C:\Users\PC\Documents\PBKK\webcamCaptureApp\webcamCaptureApp\obj\Debug\webcamCaptureApp.pdb
